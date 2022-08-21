@@ -5,3 +5,4 @@ top
 ps
 kill
 Process management commands
+Bugs has been removed
